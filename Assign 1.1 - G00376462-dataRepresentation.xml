@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<library>
+	<book catalogue="Technical">
+		<ISBN10>0081002041</ISBN10>
+		<title>XML-based Content Management : Integration, Methodologies and Tools</title>
+		<author>Ricardo Eito Brun</author>
+	</book>
+	<book catalogue="Technical">
+		<ISBN10>1118162137</ISBN10>
+		<title>Beginning XML</title>
+		<author>Joe Fawcett, Danny Ayers, Liam R.E. Quin</author>
+	</book>	
+	<book catalogue="Cookery">
+		<ISBN10>1408804409</ISBN10>
+		<title>Heston Blumenthal at Home</title>
+		<author>Heston Blumenthal</author>
+	</book>	
+	<book catalogue="Cookery">
+		<ISBN10>1444756699</ISBN10>
+		<title>Gordon Ramsay's Ultimate Cookery Course</title>
+		<author>Gordon Ramsay</author>
+	</book>
+</library>
